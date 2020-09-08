@@ -1,0 +1,10 @@
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\bin\Debug\ProyectoBDDistribuidas.exe.config
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\bin\Debug\ProyectoBDDistribuidas.exe
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\bin\Debug\ProyectoBDDistribuidas.pdb
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\obj\Debug\ProyectoBDDistribuidas.csprojAssemblyReference.cache
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\obj\Debug\ProyectoBDDistribuidas.Properties.Resources.resources
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\obj\Debug\ProyectoBDDistribuidas.csproj.GenerateResource.cache
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\obj\Debug\ProyectoBDDistribuidas.csproj.CoreCompileInputs.cache
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\obj\Debug\ProyectoBDDistribuidas.exe
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\obj\Debug\ProyectoBDDistribuidas.pdb
+C:\Users\ediso\Documents\C# Proyects\ProyectoBDDistribuidas\ProyectoBDDistribuidas\obj\Debug\ProyectoBDDistribuidas.SUPERMERCADO.resources
